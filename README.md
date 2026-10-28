@@ -28,6 +28,9 @@ A Python project I had built to understand how network traffic works behind the 
 - Discover active devices on a local network using ARP
 - Create and send custom TCP/UDP packets with configurable IP addresses and ports
 
+### working: 
+https://github.com/user-attachments/assets/a03551d6-1235-462f-bfc0-2744cfb4c971
+
 ### 📌 The Process
 
 I wanted to understand what actually happens when devices communicate over a network, beyond what we usually see in applications. So, I built a command-line tool that captures packets and breaks their contents into readable information.
